@@ -1,0 +1,13 @@
+/* main.container{
+    height: 300vh;
+    background-color: black;
+    position:relative;
+
+    .sticky{
+        background-color: orange;
+        position: static;
+        top: 0;
+        
+    }
+
+} */
